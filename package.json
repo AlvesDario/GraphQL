@@ -1,0 +1,14 @@
+{
+  "name": "GraphQL",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": "https://github.com/AlvesDario/GraphQL.git",
+  "author": "Dario Alves <dario.alves@fatec.sp.gov.br>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
+}
