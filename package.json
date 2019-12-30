@@ -9,6 +9,7 @@
   "author": "Dario Alves <dario.alves@fatec.sp.gov.br>",
   "license": "MIT",
   "dependencies": {
+    "axios": "^0.19.0",
     "graphql-yoga": "^1.18.3"
   }
 }
